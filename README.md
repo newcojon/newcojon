@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @newcojon. 
-- 👀 I’m interested in blockchain applications, natural language processing, and machine learning that helps streamline legal processes. In addition, I am interested in the regulation and custody of NFTs and cryptocurrency.  
-- 🌱 I’m currently studying at the Flatiron School and have 15 years experience as a practicing attorney.  
-- I think most agreements in business can be done with boilerplate language and minimal attorney review, thus, the legal industry should be ripe for more efficient and cost effective applications in most cases.  
-- 💞️ I’m looking to collaborate on projects of all kinds related to the legal industry, blockchain, or Natural Language Processing. 
+- 👋 Hi, I’m Jonathan P. Newcomb.  I am a data scientist, and also an attorney.  
+
+- I am an experienced attorney who, after 15 years of practicing law, went on Sabbatical in March 2020, initially to homeschool my children during the Covid pandemic.  While on Sabbatical, I became interested in python programming, data science, blockchain technology, and machine learning. 
+- I am currently studying data science and python programming at the Flatiron School in New York City.
+👀 I am looking to work on projects that will bring help businesses reduce their legal costs through the use of machine learning, blockchain, and other technology that can streamline legal processes and services.  
+- 💞️ I’m looking to collaborate on projects of all kinds related to the legal industry and data science.  
 - 📫 How to reach me jnewcomb54@gmail.com
 
 <!---
